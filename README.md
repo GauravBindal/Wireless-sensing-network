@@ -1,5 +1,6 @@
+# wireless-sensing-network
 
-    # *** Detection of malicious nodes in wireless sensing network using weighted trust evaluation method ***
+    *** Detection of malicious nodes in wireless sensing network using weighted trust evaluation method ***
 
 
 In this we consider an area in which we randomly distribute sensing nodes and we make few random cluster heads. We assume that only the cluster heads are able to communicate with the main system. So instead of sending message from the node to main system, we send data to the cluster head and from that cluster head to the main system.
